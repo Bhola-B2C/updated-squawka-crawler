@@ -12,7 +12,7 @@ checklist=checklist_file.readlines()
 num_teams_checked=len(checklist)
 checklist.extend(["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""])
 
-team_list=["Manchester United","Manchester City","Arsenal","Tottenham Hotspur","Chelsea","Liverpool","Real Madrid","Barcelona","West Ham United","Ajax","PSV","Feyenoord","Borussia Dortmund","Borussia Monchengladbach","FC Bayern Munchen","VfL Wolfsburg","Bayer 04 Leverkusen","FC Schalke 04","Atletico de Madrid","Sevilla","Valencia CF","Lyon","Marseille","St Etienne","Paris Saint Germain","Monaco","Juventus","Roma","Lazio","Napoli","Fiorentina","Milan","Internazionale"]
+team_list=["Manchester United","Manchester City","Arsenal","Tottenham Hotspur","Chelsea","Liverpool","Real Madrid","Barcelona","AJAX","Feyenoord","Borussia Dortmund","FC Bayern Munchen","Atletico de Madrid","Sevilla","Paris Saint Germain","Monaco","Juventus","Roma","Lazio","Napoli","Fiorentina","Benfica","Shakhtar Donetsk","Spartak Moskva","Porto","Basel","Olympiacos","Anderlecht","Celtic","CSKA Moskva","Beşiktaş","Sporting CP","APOEL","Maribor","Qarabağ","RB Leipzig"]
 def crawl(url):
 	while True:
 		try:
