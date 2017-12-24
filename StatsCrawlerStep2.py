@@ -5,10 +5,12 @@ import re
 import pickle
 from time import sleep
 
+from PlayerCrawlerStep1 import k
+
 
 datafile=open("PlayerFile.txt","r+b")
 playerdata=[dict() for x in range(1190)]
-for i in range(1071):
+for i in range(k):
 	x=pickle.load(datafile)
 	#print x
 	if(x):
