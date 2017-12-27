@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7fee5c5-1ca2-4f30-8f0f-1ee61e2a17cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/updated-squawka-crawler.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_init_.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/StatsCrawlerStep 2.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/PlayerCrawler(step 1).py" afterPath="$PROJECT_DIR$/PlayerCrawlerStep1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NameFile.txt" afterPath="$PROJECT_DIR$/NameFile.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PlayerFile.txt" afterPath="$PROJECT_DIR$/PlayerFile.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamsCompleted.txt" afterPath="$PROJECT_DIR$/TeamsCompleted.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goalie_data.csv" afterPath="$PROJECT_DIR$/goalie_data.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/outfield_data.csv" afterPath="$PROJECT_DIR$/outfield_data.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/players_done.txt" afterPath="$PROJECT_DIR$/players_done.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/statfile.txt" afterPath="$PROJECT_DIR$/statfile.txt" />
-    </list>
+    <list default="true" id="d7fee5c5-1ca2-4f30-8f0f-1ee61e2a17cc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="982" />
     <option name="y" value="22" />
     <option name="width" value="865" />
@@ -278,7 +261,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11644205" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
