@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import re
 import pickle
 from time import sleep
+k=0
 
 prog_start=time.time()
 
@@ -60,6 +61,7 @@ for team in team_list:
 	print ("         PLAYERS   FROM    "+team		)
 	print ("-----------------------------------------------") 
 	j=0
+
 	for player in player_links:
 		playerfile=open("PlayerFile.txt","ab")
 		namefile=open("NameFile.txt","a")
@@ -85,6 +87,7 @@ for team in team_list:
 			player_ctr+=1
 		else:
 			continue
+		k+=1
 	print ("")
 	time_taken=float(str(time.time()-fetch_team))
 	if(time_taken>max_time):
@@ -107,3 +110,5 @@ print ("Maximum time was taken for "+max_time_team+" %.2f"%max_time,)
 print ("Minimum time was taken for "+min_time_team+" %.2f"%min_time,)
 #print ("s")
 #print len(all_players)
+print('\n'+str(k))
+#print(str(player_ctr))
